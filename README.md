@@ -1,4 +1,4 @@
-# - DKBOTx RENAMER BOT
+# - VINTAGE RENAMER BOT
 
  
 ->**An Multi purpose Bot Which Can :-**
@@ -7,11 +7,11 @@
 * ✅Supports Custom Caption/ Permanent Thumbnail
 * ✅Force Subscribe To Targeted Chat
 
-->**Updates [Here](https://telegram.dog/dk_botx)** 
+->**Updates [Here](https://t.me/VintageBotz)** 
 
 # Deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DKBOTx/FileRenamerBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/botxeditor/FileRenamerBot)
 
 # Required Strings :-
 
