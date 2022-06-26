@@ -103,7 +103,7 @@ async def start_me(bot, update):
                 ],
                 [
                     InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='https://t.me/VintageBotz'),
-                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/VintageBotz')
+                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/vbotzsupport')
                 ],
                 [
                     InlineKeyboardButton('ᴅᴇᴠᴏʟᴏᴘᴇʀ', url='https://t.me/nishn_ea'),
