@@ -107,7 +107,7 @@ async def start_me(bot, update):
                 ],
                 [
                     InlineKeyboardButton('ᴅᴇᴠᴏʟᴏᴘᴇʀ', url='https://t.me/nishn_ea'),
-                    InlineKeyboardButton('sᴏᴜʀᴄᴇ', url='https://github.com/botxeditor/FileRenamerBot')
+                    InlineKeyboardButton('ғɪʟᴛᴇʀ ʙᴏᴛ', url='https://t.me/Adv_AutoFilBot')
                 ]
             ]
         ),
