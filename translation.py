@@ -4,7 +4,7 @@ class Translation(object):
 <b>Developed By Team @VintageBotz </b> \n 
 """
 
-    BANNED_USER_TEXT = "Sorry!! But @VintageBotz As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @No_OnE_Kn0wS_Me For more Details.. " 
+    BANNED_USER_TEXT = "Sorry!! But @VintageBotz As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @VBotzSupport For more Details.. " 
     DOWNLOAD_START = "<b>Downloading !! Pls Wait🍄</b>"
     UPLOAD_START = "<b>Downloading Completed Now I'm Uploading Into TeleGram⚡</b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thank you for Using Me Support Our Channel @CinemaVeedMovies 🤎</b>"
