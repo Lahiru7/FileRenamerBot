@@ -84,7 +84,7 @@ async def start_me(bot, update):
         try:
             user = await bot.get_chat_member(update_channel, update.chat.id)
             if user.status == "kicked":
-               await update.reply_text(" Sorry,You've Been Flooding Me So My Owner Removed You From Using Me If You Think It's An Error Contact : @Faris_TG")
+               await update.reply_text(" Sorry,You've Been Flooding Me So My Owner Removed You From Using Me If You Think It's An Error Contact : @XxDarkLovexX")
                return
         except UserNotParticipant:
             await update.reply_text(
@@ -102,12 +102,12 @@ async def start_me(bot, update):
                         InlineKeyboardButton("Help", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='https://t.me/VintageBotz'),
-                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/vbotzsupport')
+                    InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='https://telegra.ph/file/f3b29c0afb8013ecbb8ee.jpg'),
+                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://telegra.ph/file/f3b29c0afb8013ecbb8ee.jpg')
                 ],
                 [
-                    InlineKeyboardButton('ᴅᴇᴠᴏʟᴏᴘᴇʀ', url='https://t.me/nishn_ea'),
-                    InlineKeyboardButton('ғɪʟᴛᴇʀ ʙᴏᴛ', url='https://t.me/Adv_AutoFilBot')
+                    InlineKeyboardButton('ᴅᴇᴠᴏʟᴏᴘᴇʀ', url='https://t.me/Xxdarklovexx'),
+                    InlineKeyboardButton('ғɪʟᴛᴇʀ ʙᴏᴛ', url='https://telegra.ph/file/6f2ae156e8047961d025a.jpg')
                 ]
             ]
         ),
