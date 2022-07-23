@@ -4,10 +4,10 @@ class Translation(object):
 <b>Developed By Team @VintageBotz </b> \n 
 """
 
-    BANNED_USER_TEXT = "Sorry!! But @VintageBotz As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @VBotzSupport For more Details.. " 
-    DOWNLOAD_START = "<b>Downloading !! Pls Wait🍄</b>"
+    BANNED_USER_TEXT = "Sorry!! But @XxDarkLovexX As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @XxDarkLovex For more Details.. " 
+    DOWNLOAD_START = "<b> ADL bot Downloding file🚀</b>"
     UPLOAD_START = "<b>Downloading Completed Now I'm Uploading Into TeleGram⚡</b>"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thank you for Using Me Support Our Channel @CinemaVeedMovies 🤎</b>"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Done✅ @ADL_Drama♥</b>"
     SAVED_CUSTOM_THUMB_NAIL = "<b>thumbnail Saved ✅ This Is Permanent Until</b> /delthumb 🤎"
     DEL_ETED_CUSTOM_THUMB_NAIL = "thumbnail cleared succesfully🥀"
     SAVED_RECVD_DOC_FILE = "<b>File Downloaded Successfully 😎</b>"
@@ -16,7 +16,7 @@ class Translation(object):
     CUSTOM_CAPTION_UL_FILE = " "
     NO_THUMB_FOUND = "No Thumbnail found"
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
-    ABOUT_ME = """<b>Meh : \n An Telegram File Renamer Bot Which Can Rename A Telegram Files. \n You Can Set Permanent Thumbnail For The File So You Don't Have To Send Custom Thumbs All The Time.\n \n i can also convert files into videos \n My Devoloper @nishn_ea</b>"""
+    ABOUT_ME = """<b>Meh : \n An Telegram File Renamer Bot Which Can Rename A Telegram Files. \n You Can Set Permanent Thumbnail For The File So You Don't Have To Send Custom Thumbs All The Time.\n \n i can also convert files into videos \n My Devoloper @XxDarkLovexX</b>"""
     HELP_USER = """Checkout The Available Commands Here \n\n If you Like Me Support Us @VintageBotz🤎"""
     RENAME_HELP = """Here are The Available Commands In Reanme \n\n\n▪️ <code>/rename</code> : Reply To An File/video With <code>/rename Filename.extension</code> For Renaming"""
     C2V_HELP = """Here Are The Available Commands In File To Video \n\n\n ▪️<code>/c2v</code> : Reply To An File With /c2v To Convert It Into Video"""
